@@ -1,0 +1,412 @@
+*
+{
+    margin: 0 ;
+    box-sizing: border-box ;
+}
+body
+{
+    background-color: #ccc ;
+}
+header
+{
+    height: 75px;
+    background-color : white;
+    border-bottom: 2px solid #f2f2f2 ; 
+}
+.d1 img
+{
+   margin-left : 50px ; 
+   margin-top: 10px ; 
+   width: 150px ;
+   height:50px; 
+}
+.d1 a
+{
+    text-decoration-line: none ;
+}
+.d2
+{
+    display: flex;
+    margin-top:-50px ;
+    float: right;
+    margin-right: 15px ;
+}
+.input2 {
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 40px;
+}
+ .join:link, .join:visited
+{
+    text-decoration-line: none ;
+    margin-right:15px ; 
+    padding: 12px;
+    background-color: #078171 ;
+    color : white ;
+    border-radius:5px; 
+    font-size: 16px ;
+    font-weight: bold ;
+}
+.dd
+{
+    display : flex ;
+}
+.a1
+{ 
+    font-weight: bolder ;
+    color: black ;
+    text-decoration-line: none ;
+    padding-right: 10px ; 
+    margin-right:15px ; 
+    background-color: white ;
+    border-right:1px solid silver ;
+    text-align: center;
+    padding-top : 10px ;
+}
+.div2 img
+{
+    width:100%;
+    height: 350px ; 
+}
+.div2 button{
+        height: 60px;
+        width: 13%;
+        background-color: white;
+        color: black;
+        text-align: center;
+        padding: 15px;
+        margin: auto;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 15%;
+        left: 0;
+        font-size: 20px;
+        border-radius: 35px ; 
+        cursor: pointer;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,.2); 
+}
+.d3 img 
+{
+    width : 150px ;
+    height: 60px;
+    border-radius:50%; 
+}
+.d3 a
+{
+    text-decoration-line: none ;
+    position: absolute;
+    top: 300px;
+    right: 0;
+    bottom: 45%;
+    left: 1050px;
+}
+.Sec1
+{
+    display : flex ;
+    justify-content: center;
+}
+.a2
+{
+    color:#00a680 ;
+    text-decoration-line: none ;
+}
+.div3
+{
+    background-color: white ;
+    width:100px ;
+    height: 100px ;
+    border-right:2px solid silver ;
+    text-align: center;
+    padding-top : 25px ;
+    font-size: 20px ;
+    margin-top: -50px ;  
+}
+.new
+{
+    position: absolute;
+    border-radius: 2px 0 0 2px;
+    padding: 0 8px;
+    margin: 8px 0;
+    font-size: 10px;
+    font-weight: 700;
+    top: 375px;
+    right: 535px;
+    background-color: #ef6945;
+    color: #fff;
+
+}
+.sec2
+{
+    display: flex;
+    margin-top:50px ;
+    margin-right: 20px ; 
+}
+.div4
+{ 
+    margin-bottom: 50px ; 
+    margin-left:50px; 
+    margin-right: 25px ; 
+    border-top : solid #00a680 ; 
+    width: 20% ;   
+}
+.personal
+{
+    background-color: #fff ;
+    padding-bottom: 25px ; 
+}
+.img2 img
+{
+    width: 80px ;
+    height: 60px; 
+    border-radius:50% ; 
+}
+.img2
+{
+    padding: 25px ;
+    text-align: center;
+}
+.text
+{
+    padding-bottom:25px; 
+}
+.Share
+{
+     margin-top: 25px ;
+     background-color: #fff ;
+     height: 250px; 
+}
+.Share h3
+{
+    font-weight: bolder ;
+    padding: 25px;  
+}
+.post
+{
+    text-decoration-line: none ;
+    color: #00a680 ; 
+    font-weight: bold ; 
+}
+.pos
+{
+    width: 150px ;
+    height: 50px ;
+    margin-left: 50px ;
+    margin-top: 15px ; 
+}
+.posts
+{
+    width: 50% ;
+    margin-right: 15px ;   
+    background-color: #fff ;
+}
+.Posts
+{
+    border-bottom:seashell 2px solid ;
+    margin: 10px ;
+    padding: 10px;
+}
+.img3
+{
+    width: 80px ;
+    height: 60px; 
+    border-radius:50% ; 
+}
+.header1
+{
+    height: 70px;
+    width: 100%;
+    display: flex ;
+}
+.header1 a
+{
+    text-decoration-line: none ;
+}
+.span 
+{
+    display: flex ;
+    padding-left: 5px ;  
+}
+.span h3
+{
+    padding-right: 5px ; 
+}
+ .date
+{
+    cursor: pointer;
+    color: #767676;
+    margin-left: -180px ; 
+    margin-top: 15px ; 
+} 
+.header2
+{
+   margin-left: 350px ; 
+}
+.header2 button
+{
+    border: #fff solid ;
+    background-color: #fff ;
+    cursor: pointer;
+}
+.header2 i 
+{
+    cursor: pointer;
+}
+.body img 
+{
+    width: 100% ;
+}
+.number a
+{
+    text-decoration-line: none ;
+    padding-right: 25px; 
+    font-size: 20px;
+}
+.number
+{
+    margin-top: 15px;
+    padding-bottom: 15px ; 
+    border-bottom: #f2f2f2 2px solid ; 
+
+}
+.action
+{
+    margin-top: 15px ;
+}
+.action button
+{
+    margin-right: 10px ; 
+    background-color: #fff;
+    border: #fff solid ;
+    font-size: 20px ;
+    cursor: pointer;
+}
+.follow
+{
+background-color: #fff ;
+padding: 15px ;
+height: 830px ;
+}
+.trip
+{
+    border-bottom: 2px solid silver ;
+}
+.Trip a
+{
+    text-decoration-line: none ;
+    color: rgb(223, 219, 219) ; 
+}
+.follow h3
+{
+    text-align: center ;
+    font-weight: bold ;
+}
+.follow button
+{
+    width: 100% ;
+    padding: 7px ;
+    background-color: #fff ;
+    border: #00a680 2px solid ;
+    color: #00a680 ;
+    margin-top: 10px ; 
+    margin-bottom:10px ; 
+}
+.p
+{
+    width: 100px ;
+    background-color: #ccc ;
+    padding: 5px ;
+    text-align: center;
+    border: 2px solid silver ;
+    border-radius: 5px ; 
+}
+.button
+{
+    width: 150px;
+    height: 50px ;
+    background-color: #00a680 ;
+    color: #fff ;
+    border: #00a680 ;
+    border-radius: 5px ;
+    font-weight: bolder ;
+    margin-left: 40%; 
+    margin-top: 15px ;
+    margin-bottom: 25px;  
+}
+.Footer1
+{
+    margin: 25px ;
+}
+.Footer h3
+{
+    margin: 25px ;
+}
+.Foot
+{
+    display : flex ;
+}
+.Footer2
+{
+    width: 33.33% ;
+    margin-bottom: 25px ; 
+}
+.Footer2 a
+{
+    text-decoration-line: none ;
+    color: black ;
+    margin-left: 25px ;  
+}
+.Foot1
+{
+    margin-left: 25px ; 
+    display: flex ;
+}
+.Footer3
+{
+    width: 20% ;
+   margin-bottom:25px; 
+}
+.Footer3 a
+{
+    text-decoration-line: none ;
+    color: black ;
+}
+.select
+{
+    margin: 15px ;
+    padding: 10px ;
+    width: 70% ;
+}
+.SITES a
+{
+text-decoration-line: none ;
+color : black ;
+font-weight: bolder ;
+}
+.SITES
+{
+    margin-left: 50px ; 
+    border-left: silver 2px solid ; 
+    padding-left: 15px ;
+    padding-bottom: 15px ;  
+}
+.div5
+{
+    margin: 25px;
+    width:50%;
+    margin-right: 15px; 
+    color: black ;
+}
+.div6 img 
+{
+    width: 100px;
+    height: 40px;
+    margin-right:25px ; 
+}
+.div6
+{
+    display: flex ;
+}
+
